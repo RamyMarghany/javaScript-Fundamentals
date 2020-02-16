@@ -66,7 +66,7 @@ let z = {
   // add the element in the array
   
   const arr = [1,3,5,7,9]
-  const res = arr.reduce((acc, item)=> acc * item)
+  const res = arr.reduce((acc, item)=> acc + item)
   console.log(res)
   
   
