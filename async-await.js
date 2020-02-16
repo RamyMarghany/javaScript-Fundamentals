@@ -17,5 +17,3 @@ async function getData(){
 getData()
 
 
-//flat function using when you have a matrix of multi deminision levels or arrays and want to make it in one deminsion array and using 1 or inifity as a paramter
-

@@ -72,7 +72,7 @@ let z = {
   
   /////////////////////////////////
   
-  
+  //flat function using when you have a matrix of multi deminision levels or arrays and want to make it in one deminsion array and using 1 or (inifity) as a paramter
   let arr = [[1,2], [2,3], [3,5]]
   let flateArr = arr.flat()
   console.log(flateArr)
